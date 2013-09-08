@@ -14,7 +14,7 @@ Eventually I want to make this repo a more comprehensive source for learning to 
 - tape over all cams and disable microphones in all devices
 - get rid of digital TV and use LCD not connected to any external providers 
 - shop on prepaid cards.  use money orders and cash
-- roll your only certificate authority.  don't trust Verisign, GoDaddy, etc.
+- roll your only certificate authority.  don't trust Verisign, GoDaddy, etc. [NSA NY Times](http://www.nytimes.com/interactive/2013/09/05/us/documents-reveal-nsa-campaign-against-encryption.html?_r=0)
 - use perfect forward secrecy - unless this is a google/NSA collab?
 - Avoid all social networking, photo sharing, and online forums.  
 - [Tor Project] (https://www.torproject.org)
